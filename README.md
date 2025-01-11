@@ -116,12 +116,5 @@ Your frontend should now be running on **http://localhost:3000**
 
 ---
 
-## Author
-- **Kaanushan Sivarasah**
-- [GitHub](https://github.com/your-github)
-- [LinkedIn](https://linkedin.com/in/your-profile)
-
----
-
 ## License
 This project is licensed under the MIT License.
