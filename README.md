@@ -58,8 +58,25 @@ npm install
 
   
    ```
+  ```
  Update database credentials in **`server.js`**
   js ```
+ 
+  const db = mysql.createConnection({
+      host: 'localhost',
+      user: 'root',
+      password: 'root123',
+      database: 'sys'
+  });
+ 
+   ```
+
+#### Start the Backend Server:
+```sh
+npm start
+```
+ Update database credentials in **`server.js`**
+  js 
  
   const db = mysql.createConnection({
       host: 'localhost',
