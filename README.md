@@ -59,7 +59,7 @@ npm install
  ```
  Update database credentials in **`server.js`**
   ```js
- ```
+ 
   const db = mysql.createConnection({
       host: 'localhost',
       user: 'root',
