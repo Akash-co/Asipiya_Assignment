@@ -36,7 +36,7 @@ cd todo-app
 ### **2. Backend Setup**
 #### Install dependencies:
 ```sh
-cd backend
+cd server
 npm install
 ```
 #### Configure MySQL Database:
@@ -77,7 +77,7 @@ Your backend should now be running on **http://localhost:5000**
 ### **3. Frontend Setup**
 #### Install dependencies:
 ```sh
-cd frontend
+cd client
 npm install
 ```
 #### Start the Frontend:
