@@ -56,7 +56,7 @@ npm install
     UNIQUE KEY id_UNIQUE (id)
 );
 
-  ```
+  
    ```
  Update database credentials in **`server.js`**
   js ```
