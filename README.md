@@ -56,9 +56,10 @@ npm install
     UNIQUE KEY id_UNIQUE (id)
 );
   ```
-
-- Update database credentials in **`server.js`**
+ ```
+ Update database credentials in **`server.js`**
   ```js
+ ```
   const db = mysql.createConnection({
       host: 'localhost',
       user: 'root',
