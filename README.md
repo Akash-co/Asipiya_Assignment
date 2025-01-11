@@ -67,8 +67,8 @@ npm install
       password: 'root123',
       database: 'sys'
   });
- ``` ```
-  
+ 
+   ```
 
 #### Start the Backend Server:
 ```sh
