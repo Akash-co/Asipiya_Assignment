@@ -57,7 +57,7 @@ npm install
 );
 
   ```
-  
+   ```
  Update database credentials in **`server.js`**
   js ```
  
@@ -68,7 +68,7 @@ npm install
       database: 'sys'
   });
  ``` ```
-  ```
+  
 
 #### Start the Backend Server:
 ```sh
