@@ -53,8 +53,8 @@ npm install
     createdAt DATE NOT NULL,
     status VARCHAR(45) NOT NULL,
     PRIMARY KEY (id),
-    UNIQUE KEY id_UNIQUE (id)
-);
+    UNIQUE KEY id_UNIQUE (id));
+
   
 
 - Update database credentials in **`server.js`**
