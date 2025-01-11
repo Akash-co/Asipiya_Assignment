@@ -1,3 +1,4 @@
+
 # Asipiya_Assignment
 
 # ToDo List Application
@@ -45,7 +46,7 @@ npm install
   ```
 - Run the following SQL command to create the `todos` table:
   ```sql
- CREATE TABLE todos (
+  CREATE TABLE todos (
     id INT NOT NULL AUTO_INCREMENT,
     title VARCHAR(45) NOT NULL,
     description VARCHAR(100) NOT NULL,
@@ -124,4 +125,3 @@ Your frontend should now be running on **http://localhost:3000**
 
 ## License
 This project is licensed under the MIT License.
-
