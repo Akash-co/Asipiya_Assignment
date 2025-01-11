@@ -55,8 +55,9 @@ npm install
     PRIMARY KEY (id),
     UNIQUE KEY id_UNIQUE (id)
 );
+
   ```
- ```
+ 
  Update database credentials in **`server.js`**
   ```js
  
