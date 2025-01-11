@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
+import './index.css'
 
 const Home = () => {
     // State variables to manage the current tab, task title, description, todos list, edit mode, and update task ID
