@@ -30,7 +30,7 @@ This is a full-stack ToDo List application built using **React.js** for the fron
 ### **1. Clone the Repository**
 ```sh
 git clone https://github.com/Akash-co/Asipiya_Assignment.git
-cd todo-app
+
 ```
 
 ### **2. Backend Setup**
