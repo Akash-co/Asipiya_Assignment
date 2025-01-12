@@ -68,7 +68,7 @@ npm install
   ```
 #### Start the Backend Server:
 ```sh
-npm start
+npm run dev
 ```
 Your backend should now be running on **http://localhost:5000**
 
@@ -82,7 +82,7 @@ npm install
 ```
 #### Start the Frontend:
 ```sh
-npm start
+npm run dev
 ```
 Your frontend should now be running on **http://localhost:3000**
 
